@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "end-of-stream": "^1.4.1",
-    "fastify-plugin": "^2.0.0",
+    "fastify-plugin": "^3.0.0",
     "pump": "^3.0.0",
     "semver": "^7.2.1",
     "tiny-lru": "^7.0.0",
